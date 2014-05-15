@@ -1,5 +1,5 @@
 {
-  "name": "reset-box-model",
+  "name": "shoelace-ui-reset-box-model",
   "version": "0.0.1",
   "description": "reset-box-model opaque mixin",
   "main": "index.styl",
