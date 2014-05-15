@@ -1,0 +1,26 @@
+{
+  "name": "reset-box-model",
+  "version": "0.0.1",
+  "description": "reset-box-model opaque mixin",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/reset-box-model"
+  },
+  "keywords": [
+    "reset",
+    "box",
+    "model",
+    "stylus",
+    "shoelace-ui"
+  ],
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/reset-box-model/issues"
+  },
+  "homepage": "https://github.com/shoelace-ui/reset-box-model"
+}
